@@ -8,8 +8,7 @@
 - [z] avoid sorting user again the data when the user shanging filter by country
 - [x] handle any potential error that may accur
 - [x] sort by clicking on the column header
-- [] provide a readme.md file with instruction on how to run the application
+- [x] provide a readme.md file with instruction on how to run the application
 
 
 
-01:31:16
